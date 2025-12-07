@@ -1,0 +1,7 @@
+const fullName = "Puja";
+var age = 21;
+let address = "Ranchi";
+college = "BIT Sindri";
+let branch;
+console.table([fullName, age, address, college, branch]);
+

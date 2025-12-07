@@ -1,0 +1,15 @@
+let num = 21;
+let name = "puja";
+let isSingle = true;
+let baby = null;
+let thought = undefined;
+
+console.table([num, name, isSingle, baby, thought]);
+console.log(typeof num);
+console.log(typeof 21);
+console.log(typeof name);
+console.log(typeof "puja");
+console.log(typeof isSingle);
+console.log(typeof true);
+console.log(typeof null);
+console.log(typeof undefined);
