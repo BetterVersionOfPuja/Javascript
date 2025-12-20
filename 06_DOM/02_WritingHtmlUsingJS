@@ -10,6 +10,8 @@
     
 </body>
 <script>
+
+    //writing html using the javascript
     const div = document.createElement('div')
     console.log(div);
     div.className = "main"
